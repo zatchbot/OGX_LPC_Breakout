@@ -2,7 +2,8 @@
 
 #OGX_LPC_Splitter
 
-##Simple breakout board for original Xbox LPC debug port. Designed to pair Ernegien's Original Xbox Serial USB Adapter with compatible modchips. [Original Xbox Serial USB Adapter](https://github.com/XboxDev/serial-usb-adapter). 
+##Simple breakout board for original Xbox LPC debug port. 
+Designed to pair Ernegien's Original Xbox Serial USB Adapter with compatible modchips. [Original Xbox Serial USB Adapter](https://github.com/XboxDev/serial-usb-adapter). 
 Has also been used to simultaneously kernel debug while signal analyizing on a TSOP flashed console. 
 *Must use debug bios i.e. Cerbios, Yoshihiro, or X2.*
 
