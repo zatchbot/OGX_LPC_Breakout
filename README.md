@@ -10,6 +10,6 @@ Has also been used simultaneously kernel debug while signal analyizing on a TSOP
 
 ***Can not be used with grounded d0 or with cut lframe! Modchip used must also be able to release d0/lframe on boot for serial comms!!!***
 
-![PcbSuperIO](images/pcb.jpg?raw=true "Splitter PCB")
+![PcbSuperIO](images/pcb.JPG?raw=true "Splitter PCB")
 
 ![OxSuperIO](images/OxSuperIO.jpg?raw=true "Open Xenium w/ Splitter and SuperIO")
