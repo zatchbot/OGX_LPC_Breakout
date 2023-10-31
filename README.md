@@ -8,7 +8,7 @@ Has also been used simultaneously kernel debug while signal analyizing on a TSOP
 
 *Must use debug bios i.e. Cerbios, Yoshihiro, or X2.*
 
-### ***Can not be used with grounded d0 or with cut lframe! Modchip used must also be able to release d0/lframe on boot for serial comms!!!***
+***IMPORTANT*** Can not be used with grounded d0 or with cut lframe! Modchip used must also be able to release d0/lframe on boot for serial comms!
 
 ![PcbSuperIO](images/pcb.JPG?raw=true "Splitter PCB")
 
