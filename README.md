@@ -1,4 +1,4 @@
-# OGX_LPC_Splitter
+# OG Xbox LPC Splitter
 
 ### Simple breakout board for original Xbox LPC debug port. 
 
